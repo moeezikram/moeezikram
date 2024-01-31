@@ -1,6 +1,6 @@
 <h1 align="center">Hi! My name is <strong>Moeez Ikram</strong></h1>
 
-<h3 align="center">Front End Developer / Back End Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=moeezikram alt="Moeez Ikram"/> </p>
 
 <p align="left"> <a href="https://twitter.com/moeeezikram" target="blank"><img src="https://img.shields.io/twitter/follow/moeeezikram?logo=twitter&style=for-the-badge" alt="Moeez Ikram" /></a> </p>
