@@ -11,8 +11,7 @@
 
 ### 👨‍💻 About Me
 - 🧠 I’m a solutions-focused developer working across **Web & Mobile stacks**.
-- 🌍 I’ve built apps for industries like **HealthTech**, **AI**, **LegalTech**, and **eCommerce**.
-- 💡 Co-founder of **Sipciy** – simplifying student life with smart tech.
+- 🌍 I’ve built apps for industries like **HealthTech**, **AI**, **LegalTech**, **SaaS** and **eCommerce**.
 - 🛠️ Currently working with global teams in the **US & UK**.
 - 🧩 I thrive on solving real problems with clean code and thoughtful UX.
 
